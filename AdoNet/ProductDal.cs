@@ -60,7 +60,7 @@ namespace AdoNet
         }
 
 
-        //2.yol veri çekme
+        //Second way of data retrieving
         public DataTable GetAll2()
         {
 
