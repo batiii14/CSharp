@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecapDemo1", "RecapDemo1\Re
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecapDemo2", "RecapDemo2\RecapDemo2.csproj", "{9B5AF6F0-8FBF-410B-BE85-74B361620D4E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdoNet", "AdoNet\AdoNet.csproj", "{D48FD27C-8CFB-4DC5-BD52-E09B9D39BC6D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{9B5AF6F0-8FBF-410B-BE85-74B361620D4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B5AF6F0-8FBF-410B-BE85-74B361620D4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B5AF6F0-8FBF-410B-BE85-74B361620D4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D48FD27C-8CFB-4DC5-BD52-E09B9D39BC6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D48FD27C-8CFB-4DC5-BD52-E09B9D39BC6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D48FD27C-8CFB-4DC5-BD52-E09B9D39BC6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D48FD27C-8CFB-4DC5-BD52-E09B9D39BC6D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
